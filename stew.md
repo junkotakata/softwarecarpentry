@@ -4,4 +4,4 @@
 
 - some root vegetables
 - garlic
-
+- ginger
