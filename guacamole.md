@@ -1,1 +1,6 @@
-# this is a recipe
+# Guacamole
+
+## Ingredients
+- avocado
+- lemon 
+- salt 
